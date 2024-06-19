@@ -11,4 +11,8 @@ A fully decentralized Community DAO to practice your rights and freedoms.
 - [Stellar protocol smart contracts](https://developers.stellar.org/docs/smart-contracts)
 - [IPFS for data archival and persistence](https://ipfs.tech/developers/)
 
+### Join the Community
+- [Discord server](https://discord.gg/v6TYzfuZc8)
+- [Twitter]()
+
 Happy hacking with you!
