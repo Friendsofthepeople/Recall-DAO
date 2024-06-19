@@ -8,8 +8,7 @@ A fully decentralized Community DAO to practice your rights and freedoms.
 
 ### Stack
 - ReactJS PWA
-- Stellar protocol smart contracts
-- Stellar protocol data storage
-- IPFS for data archival and persistence
+- [Stellar protocol smart contracts](https://developers.stellar.org/docs/smart-contracts)
+- [IPFS for data archival and persistence](https://ipfs.tech/developers/)
 
 Happy hacking with you!
